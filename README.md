@@ -1,5 +1,7 @@
 # bar_do_joao
 
+## Devs
+# Marcos Correa e Edson 
 ## Build Setup
 
 ```bash
