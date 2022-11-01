@@ -1,7 +1,7 @@
 # bar_do_joao
 
 ## Devs
-# Marcos Correa e Edson 
+# Marcos Correa e Edson Americo dos Santos
 ## Build Setup
 
 ```bash
